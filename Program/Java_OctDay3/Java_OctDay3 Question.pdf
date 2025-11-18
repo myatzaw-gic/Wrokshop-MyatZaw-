@@ -1,0 +1,664 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4268
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are developing a user authentication system. The system needs to check if a) Tj
+T* (user's password meets certain criteria before allowing registration. The password) Tj
+T* (must be at least 8 characters long, contain at least one uppercase letter, one) Tj
+T* (lowercase letter, and one number. Which conditional logic would be most appropriate) Tj
+T* (to implement this check?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 581.1025984251967884 Td
+(A. if statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 561.2600787401574962 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 541.4175590551180903 Td
+(C. while loop) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 521.5750393700786844 Td
+(D. do-while loop) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 487.559291338582625 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 487.559291338582625 Td
+(In a file processing application, you need to read lines from a file until you reach the) Tj
+T* (end. Which conditional logic would be most suitable for this task?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 453.5435433070865656 Td
+(A. if statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 433.7010236220471597 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 413.8585039370078107 Td
+(C. while loop) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 394.0159842519684616 Td
+(D. for loop) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 360.0002362204724022 Td
+(3.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 360.0002362204724022 Td
+(You're implementing a simple calculator function that takes two numbers and an) Tj
+T* (operator \(+, -, *, /\) as input. Which conditional logic would be most efficient for) Tj
+T* (determining which operation to perform?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 311.8112598425195756 Td
+(A. if-else if chain) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 291.9687401574802834 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 272.1262204724408775 Td
+(C. while loop) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 252.2837007874014716 Td
+(D. nested if statements) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 218.2679527559054122 Td
+(4.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 218.2679527559054122 Td
+(In a game, you need to check if a player's health is below 0 and end the game if true.) Tj
+T* (This check needs to be performed continuously as long as the game is running.) Tj
+T* (Which conditional logic would be most appropriate?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 170.0789763779526993 Td
+(A. if statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 150.2364566929132934 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 130.3939370078738875 Td
+(C. while loop) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 110.5514173228345953 Td
+(D. do-while loop) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3404
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You're implementing a menu system where the user selects an option by entering a number. The menu) Tj
+T* (should keep appearing until the user selects the 'Exit' option. Which conditional logic would be most) Tj
+T* (suitable?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 737.0081102362204319 Td
+(A. if statement) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 717.1655905511811397 Td
+(B. switch statement inside a do-while loop) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 697.3230708661417339 Td
+(C. for loop) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 677.480551181102328 Td
+(D. nested if statements) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 643.4648031496062686 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 643.4648031496062686 Td
+(In a data processing application, you need to validate user input to ensure it's a positive integer. If the) Tj
+T* (input is invalid, you want to keep prompting the user until they provide valid input. Which conditional) Tj
+T* (logic would be most appropriate?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 595.2758267716535556 Td
+(A. if statement) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 575.4333070866141497 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 555.5907874015747439 Td
+(C. while loop) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 535.748267716535338 Td
+(D. for loop) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 501.7325196850393354 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 501.7325196850393354 Td
+(You're developing a function that needs to perform different actions based on the day of the week) Tj
+T* (\(represented as an integer from 1 to 7\). Which conditional logic would be most efficient and readable?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 467.716771653543276 Td
+(A. if-else if chain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 447.8742519685038701 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 428.0317322834645211 Td
+(C. while loop) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 408.1892125984251152 Td
+(D. nested if statements) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 374.1734645669290558 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 374.1734645669290558 Td
+(In a web application, you need to implement a retry mechanism for API calls. The application should) Tj
+T* (attempt to call the API up to 3 times if it fails. Which conditional logic would be most suitable?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 340.1577165354329964 Td
+(A. if statement) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 320.3151968503935905 Td
+(B. switch statement) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 300.4726771653542983 Td
+(C. while loop) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 280.6301574803148924 Td
+(D. do-while loop) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20250929103302+06'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000008065 00000 n 
+0000009890 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004472 00000 n 
+0000004609 00000 n 
+0000008128 00000 n 
+0000008253 00000 n 
+0000008383 00000 n 
+0000008516 00000 n 
+0000008654 00000 n 
+0000008778 00000 n 
+0000008907 00000 n 
+0000009039 00000 n 
+0000009175 00000 n 
+0000009303 00000 n 
+0000009430 00000 n 
+0000009559 00000 n 
+0000009692 00000 n 
+0000009794 00000 n 
+0000010140 00000 n 
+0000010226 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <35209C85FE0A0AD59B699E86DC48972B> <35209C85FE0A0AD59B699E86DC48972B> ]
+>>
+startxref
+10330
+%%EOF
