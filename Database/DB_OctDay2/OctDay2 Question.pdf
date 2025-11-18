@@ -1,0 +1,665 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4490
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are working on a customer database and need to retrieve all unique city names) Tj
+T* (where customers reside. Which SQL query would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 623.6222834645668627 Td
+(A. SELECT city FROM customers;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 603.7797637795274568 Td
+(B. SELECT DISTINCT city FROM customers;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 583.9372440944881646 Td
+(C. SELECT UNIQUE city FROM customers;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 564.0947244094487587 Td
+(D. SELECT ALL city FROM customers;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 530.0789763779526993 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 530.0789763779526993 Td
+(You need to create a report that displays employee names in the format 'Last Name,) Tj
+T* (First Name'. Which SQL query would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 496.0632283464566399 Td
+(A. SELECT last_name + ', ' + first_name FROM employees;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 476.2207086614172908 Td
+(B. SELECT last_name || ', ' || first_name FROM employees;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 456.378188976377885 Td
+(C. SELECT CONCAT\(last_name, ', ', first_name\) FROM employees;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 436.5356692913385359 Td
+(D. SELECT last_name AND ', ' AND first_name FROM employees;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 402.5199212598424765 Td
+(3.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 402.5199212598424765 Td
+(You are working with a table named 'products' and need to select all product names) Tj
+T* (that contain a single quote \('\). Which SQL query would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 368.5041732283464171 Td
+(A. SELECT product_name FROM products WHERE product_name LIKE '%'%';) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 348.6616535433070112 Td
+(B. SELECT product_name FROM products WHERE product_name LIKE '%''%';) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 328.8191338582676053 Td
+(C. SELECT product_name FROM products WHERE product_name LIKE q'[%'%]';) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 308.9766141732283131 Td
+(D. SELECT product_name FROM products WHERE product_name CONTAINS ''';) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 274.9608661417322537 Td
+(4.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 274.9608661417322537 Td
+(You need to retrieve the first 5 characters of the product name, followed by '...' for all) Tj
+T* (products. Which SQL query would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 240.9451181102361943 Td
+(A. SELECT CONCAT\(SUBSTR\(product_name, 1, 5\), '...'\) FROM products;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 221.1025984251967884 Td
+(B. SELECT LEFT\(product_name, 5\) || '...' FROM products;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 201.2600787401573825 Td
+(C. SELECT SUBSTRING\(product_name, 1, 5\) + '...' FROM products;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 181.4175590551179766 Td
+(D. SELECT SUBSTR\(product_name, 1, 5\) || '...' FROM products;) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4326
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You are working on a project where you need to select all employee IDs and names, ensuring that no) Tj
+T* (duplicate employee IDs are returned, even if they have different names. Which SQL query would you) Tj
+T* (use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 737.0081102362204319 Td
+(A. SELECT UNIQUE employee_id, employee_name FROM employees;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 717.1655905511811397 Td
+(B. SELECT DISTINCT employee_id, employee_name FROM employees;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 697.3230708661417339 Td
+(C. SELECT DISTINCT ON \(employee_id\) employee_id, employee_name FROM employees;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 677.480551181102328 Td
+(D. SELECT employee_id, MAX\(employee_name\) FROM employees GROUP BY employee_id;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 643.4648031496062686 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 643.4648031496062686 Td
+(You need to create a report that displays the full name of employees in uppercase, with their department) Tj
+T* (in parentheses. The employee table has columns: first_name, last_name, and dept_name. Which SQL) Tj
+T* (query would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 595.2758267716535556 Td
+(A. SELECT UPPER\(first_name || ' ' || last_name\) || ' \(' || dept_name || '\)' AS full_name FROM) Tj
+T* (employees;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 561.2600787401574962 Td
+(B. SELECT CONCAT\(UPPER\(first_name\), ' ', UPPER\(last_name\), ' \(', dept_name, '\)'\) AS full_name) Tj
+T* (FROM employees;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 527.2443307086614368 Td
+(C. SELECT UPPER\(first_name + ' ' + last_name\) + ' \(' + dept_name + '\)' AS full_name FROM) Tj
+T* (employees;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 493.2285826771653205 Td
+(D. SELECT UPPER\(first_name || ' ' || last_name || ' \(' || dept_name || '\)'\) AS full_name FROM) Tj
+T* (employees;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 445.0396062992125508 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 445.0396062992125508 Td
+(You are working with a 'sales' table that has columns: sale_date, product_id, and amount. You need to) Tj
+T* (find the total sales amount for each unique combination of sale_date and product_id. Which SQL query) Tj
+T* (would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 396.850629921259781 Td
+(A. SELECT sale_date, product_id, SUM\(amount\) FROM sales;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 377.0081102362204319 Td
+(B. SELECT DISTINCT sale_date, product_id, SUM\(amount\) FROM sales;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 357.1655905511810261 Td
+(C. SELECT sale_date, product_id, SUM\(amount\) FROM sales GROUP BY sale_date, product_id;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 337.323070866141677 Td
+(D. SELECT UNIQUE sale_date, product_id, SUM\(amount\) FROM sales;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 303.3073228346455608 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 303.3073228346455608 Td
+(You need to select all product names from the 'products' table, but the names contain special characters) Tj
+T* (that are causing issues. Which SQL query would you use to select the product names, treating them as) Tj
+T* (literal strings?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 255.1183464566928478 Td
+(A. SELECT 'product_name' FROM products;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 235.2758267716534419 Td
+(B. SELECT "product_name" FROM products;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 215.4333070866141497 Td
+(C. SELECT q'[product_name]' FROM products;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 195.5907874015747439 Td
+(D. SELECT product_name FROM products;) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20250929091312+06'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000009209 00000 n 
+0000011034 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004694 00000 n 
+0000004831 00000 n 
+0000009272 00000 n 
+0000009397 00000 n 
+0000009527 00000 n 
+0000009660 00000 n 
+0000009798 00000 n 
+0000009922 00000 n 
+0000010051 00000 n 
+0000010183 00000 n 
+0000010319 00000 n 
+0000010447 00000 n 
+0000010574 00000 n 
+0000010703 00000 n 
+0000010836 00000 n 
+0000010938 00000 n 
+0000011284 00000 n 
+0000011370 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <139DB35B52EB6D32FED8DBD9F8355F79> <139DB35B52EB6D32FED8DBD9F8355F79> ]
+>>
+startxref
+11474
+%%EOF

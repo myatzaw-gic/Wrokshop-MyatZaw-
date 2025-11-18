@@ -1,0 +1,664 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4385
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are working on a large employee database and need to retrieve the top 5) Tj
+T* (highest-paid employees. Which SQL query would you use to accomplish this task?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 623.6222834645668627 Td
+(A. SELECT * FROM employees ORDER BY salary DESC LIMIT 5;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 603.7797637795274568 Td
+(B. SELECT * FROM employees WHERE ROWNUM <= 5 ORDER BY salary DESC;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 583.9372440944881646 Td
+(C. SELECT * FROM \(SELECT * FROM employees ORDER BY salary DESC\)) Tj
+T* (WHERE ROWNUM <= 5;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 549.9214960629921052 Td
+(D. SELECT * FROM employees FETCH FIRST 5 ROWS ONLY ORDER BY salary) Tj
+T* (DESC;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 501.7325196850393354 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 501.7325196850393354 Td
+(You want to create a variable named 'dept_id' with a value of 10 that can be used) Tj
+T* (throughout your SQL script. Which command would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 467.716771653543276 Td
+(A. SET dept_id = 10;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 447.8742519685038701 Td
+(B. DEFINE dept_id = 10) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 428.0317322834645211 Td
+(C. VARIABLE dept_id NUMBER = 10;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 408.1892125984251152 Td
+(D. DECLARE dept_id NUMBER := 10;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 374.1734645669290558 Td
+(3.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 374.1734645669290558 Td
+(You need to sort a result set by multiple columns. Which of the following queries will) Tj
+T* (sort employees first by department in ascending order, then by salary in descending) Tj
+T* (order?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 325.9844881889763428 Td
+(A. SELECT * FROM employees ORDER BY department ASC, salary;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 306.1419685039369369 Td
+(B. SELECT * FROM employees ORDER BY department, salary DESC;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 286.2994488188975311 Td
+(C. SELECT * FROM employees SORT BY department, salary DESC;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 266.4569291338582389 Td
+(D. SELECT * FROM employees ORDER BY department ASC, salary DESC;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 232.4411811023621794 Td
+(4.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 232.4411811023621794 Td
+(You're working on a script and want to ensure that the user is prompted to enter a) Tj
+T* (value for a substitution variable. Which SQL*Plus command should you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 198.4254330708660063 Td
+(A. SET VERIFY ON) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 178.5829133858267141 Td
+(B. SET DEFINE ON) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 158.7403937007873083 Td
+(C. SET PROMPT ON) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 138.8978740157479024 Td
+(D. SET ECHO ON) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3900
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(In a large transaction table, you need to find the 10 most recent transactions. Which query would be) Tj
+T* (most efficient?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 751.1813385826771992 Td
+(A. SELECT * FROM transactions ORDER BY transaction_date DESC FETCH FIRST 10 ROWS) Tj
+T* (ONLY;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 717.1655905511811397 Td
+(B. SELECT * FROM transactions WHERE ROWNUM <= 10 ORDER BY transaction_date DESC;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 697.3230708661417339 Td
+(C. SELECT * FROM \(SELECT * FROM transactions ORDER BY transaction_date DESC\) WHERE) Tj
+T* (ROWNUM <= 10;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 663.3073228346456744 Td
+(D. SELECT TOP 10 * FROM transactions ORDER BY transaction_date DESC;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 629.291574803149615 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 629.291574803149615 Td
+(You're debugging a script and want to see the actual values of substitution variables before they're) Tj
+T* (replaced in your SQL statements. Which command should you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 595.2758267716535556 Td
+(A. SET ECHO ON) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 575.4333070866141497 Td
+(B. SET VERIFY ON) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 555.5907874015747439 Td
+(C. SET DEFINE ON) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 535.748267716535338 Td
+(D. SET AUTOPRINT ON) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 501.7325196850393354 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 501.7325196850393354 Td
+(You need to sort a result set of employee data by last name, but for employees with the same last) Tj
+T* (name, you want to sub-sort by first name. Which query achieves this?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 467.716771653543276 Td
+(A. SELECT * FROM employees ORDER BY last_name, first_name;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 447.8742519685038701 Td
+(B. SELECT * FROM employees SORT BY last_name, first_name;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 428.0317322834645211 Td
+(C. SELECT * FROM employees ORDER BY last_name DESC, first_name ASC;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 408.1892125984251152 Td
+(D. SELECT * FROM employees GROUP BY last_name, first_name;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 374.1734645669290558 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 374.1734645669290558 Td
+(You're working on a report that requires limiting the number of rows returned, but you also need to know) Tj
+T* (the total number of rows that would have been returned without the limit. Which approach would you) Tj
+T* (use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 325.9844881889763428 Td
+(A. SELECT COUNT\(*\) OVER \(\), column1, column2 FROM table WHERE ROWNUM <= 100;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 306.1419685039369369 Td
+(B. SELECT COUNT\(*\), column1, column2 FROM table FETCH FIRST 100 ROWS ONLY;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 286.2994488188975311 Td
+(C. SELECT COUNT\(*\) OVER \(\), column1, column2 FROM table FETCH FIRST 100 ROWS ONLY;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 266.4569291338582389 Td
+(D. SELECT COUNT\(*\), column1, column2 FROM \(SELECT * FROM table\) WHERE ROWNUM <=) Tj
+T* (100;) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20250929133108+06'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000008678 00000 n 
+0000010503 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004589 00000 n 
+0000004726 00000 n 
+0000008741 00000 n 
+0000008866 00000 n 
+0000008996 00000 n 
+0000009129 00000 n 
+0000009267 00000 n 
+0000009391 00000 n 
+0000009520 00000 n 
+0000009652 00000 n 
+0000009788 00000 n 
+0000009916 00000 n 
+0000010043 00000 n 
+0000010172 00000 n 
+0000010305 00000 n 
+0000010407 00000 n 
+0000010753 00000 n 
+0000010839 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <3C7C5A9D58F68CC34B7B02C99C8E4884> <3C7C5A9D58F68CC34B7B02C99C8E4884> ]
+>>
+startxref
+10943
+%%EOF

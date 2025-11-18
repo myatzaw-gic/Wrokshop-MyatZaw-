@@ -1,0 +1,713 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 3961
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are working on a report that displays employee salaries. Some employees have) Tj
+T* (NULL values for their commission. You want to display 'No Commission' instead of) Tj
+T* (NULL. Which SQL query would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 609.4490551181102092 Td
+(A. SELECT employee_id, salary, COALESCE\(commission, 'No Commission'\) FROM) Tj
+T* (employees;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 575.4333070866141497 Td
+(B. SELECT employee_id, salary, NVL\(commission, 'No Commission'\) FROM) Tj
+T* (employees;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 541.4175590551180903 Td
+(C. SELECT employee_id, salary, NULLIF\(commission, 'No Commission'\) FROM) Tj
+T* (employees;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 507.4018110236219741 Td
+(D. SELECT employee_id, salary, CASE WHEN commission IS NULL THEN 'No) Tj
+T* (Commission' ELSE commission END FROM employees;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 459.2128346456692611 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 459.2128346456692611 Td
+(In a database tracking product inventory, you need to compare the current stock level) Tj
+T* (with the minimum required stock. If they are the same, you want to return NULL,) Tj
+T* (otherwise return the current stock. Which function would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 411.0238582677164914 Td
+(A. NVL\(current_stock, min_stock\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 391.1813385826770855 Td
+(B. COALESCE\(current_stock, min_stock\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 371.3388188976377364 Td
+(C. NULLIF\(current_stock, min_stock\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 351.4962992125983874 Td
+(D. CASE WHEN current_stock = min_stock THEN NULL ELSE current_stock END) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 317.480551181102328 Td
+(3.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 317.480551181102328 Td
+(You're working with a table that contains both numeric and string data types. You) Tj
+T* (need to concatenate a string column with a numeric column. Which of the following) Tj
+T* (approaches is most appropriate?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 269.2915748031495013 Td
+(A. Use the || operator directly without any conversion) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 249.4490551181102092 Td
+(B. Use TO_CHAR to convert the numeric column before concatenation) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 229.6065354330708033 Td
+(C. Use TO_NUMBER to convert the string column before concatenation) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 209.7640157480313974 Td
+(D. Use CAST to convert both columns to NVARCHAR2 before concatenation) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4286
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(4.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(In a financial application, you're working with a column that sometimes contains the string 'N/A' instead) Tj
+T* (of NULL for missing values. You want to treat 'N/A' the same as NULL in your calculations. Which) Tj
+T* (function would be most appropriate to use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 737.0081102362204319 Td
+(A. NVL\(column, NULL\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 717.1655905511811397 Td
+(B. NULLIF\(column, 'N/A'\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 697.3230708661417339 Td
+(C. COALESCE\(column, NULL\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 677.480551181102328 Td
+(D. CASE WHEN column = 'N/A' THEN NULL ELSE column END) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 643.4648031496062686 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 643.4648031496062686 Td
+(You have a table with a DATE column and a VARCHAR2 column containing dates in the format) Tj
+T* ('YYYY-MM-DD'. You need to compare these two columns. What's the most efficient way to do this?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 609.4490551181102092 Td
+(A. TO_DATE\(varchar2_column, 'YYYY-MM-DD'\) = date_column) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 589.6065354330708033 Td
+(B. TO_CHAR\(date_column, 'YYYY-MM-DD'\) = varchar2_column) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 569.7640157480313974 Td
+(C. CAST\(varchar2_column AS DATE\) = date_column) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 549.9214960629921052 Td
+(D. date_column = varchar2_column) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 515.9057480314959321 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 515.9057480314959321 Td
+(In a database tracking product sales, you have a column for discount percentage that can be NULL \(no) Tj
+T* (discount\), 0 \(0% discount\), or a positive number. You want to display 'Full Price' for NULL, 'No Discount') Tj
+T* (for 0, and the actual percentage for positive numbers. Which SQL construct would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 467.716771653543276 Td
+(A. NVL2\(discount, CASE WHEN discount = 0 THEN 'No Discount' ELSE TO_CHAR\(discount\) || '%') Tj
+T* (END, 'Full Price'\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 433.7010236220471597 Td
+(B. COALESCE\(CASE WHEN discount = 0 THEN 'No Discount' ELSE TO_CHAR\(discount\) || '%' END,) Tj
+T* ('Full Price'\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 399.6852755905511003 Td
+(C. NULLIF\(CASE WHEN discount = 0 THEN 'No Discount' ELSE TO_CHAR\(discount\) || '%' END, 'Full) Tj
+T* (Price'\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 365.6695275590550409 Td
+(D. NVL\(CASE WHEN discount = 0 THEN 'No Discount' ELSE TO_CHAR\(discount\) || '%' END, 'Full) Tj
+T* (Price'\)) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 317.480551181102328 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 317.480551181102328 Td
+(You're working on a query that involves mathematical operations on columns that might contain NULL) Tj
+T* (values. You want to ensure that any NULL value is treated as 0 in these calculations, but without) Tj
+T* (modifying the original data. Which approach would be most efficient?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 269.2915748031495013 Td
+(A. Use NVL on each column in every calculation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 249.4490551181102092 Td
+(B. Use COALESCE on each column in every calculation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 229.6065354330708033 Td
+(C. Create a view that replaces NULL with 0 and use this view in calculations) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 209.7640157480313974 Td
+(D. Use NVL2 to handle both NULL and non-NULL cases in each calculation) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 1555
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You have a table with a numeric column that sometimes contains negative values. For reporting) Tj
+T* (purposes, you want to display negative values as positive, zero values as 'Zero', and NULL values as) Tj
+T* ('N/A'. Which SQL construct would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 737.0081102362204319 Td
+(A. CASE WHEN column < 0 THEN ABS\(column\) WHEN column = 0 THEN 'Zero' ELSE) Tj
+T* (NVL\(TO_CHAR\(column\), 'N/A'\) END) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 702.9923622047243725 Td
+(B. NVL2\(column, CASE WHEN column < 0 THEN ABS\(column\) WHEN column = 0 THEN 'Zero' ELSE) Tj
+T* (TO_CHAR\(column\) END, 'N/A'\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 668.9766141732283131 Td
+(C. COALESCE\(CASE WHEN column < 0 THEN ABS\(column\) WHEN column = 0 THEN 'Zero' ELSE) Tj
+T* (TO_CHAR\(column\) END, 'N/A'\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 634.9608661417322537 Td
+(D. NULLIF\(CASE WHEN column < 0 THEN ABS\(column\) WHEN column = 0 THEN 'Zero' ELSE) Tj
+T* (TO_CHAR\(column\) END, 'N/A'\)) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 3) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20251001100116+06'30')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000010384 00000 n 
+0000012217 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004165 00000 n 
+0000004302 00000 n 
+0000008640 00000 n 
+0000008777 00000 n 
+0000010453 00000 n 
+0000010578 00000 n 
+0000010709 00000 n 
+0000010843 00000 n 
+0000010981 00000 n 
+0000011105 00000 n 
+0000011234 00000 n 
+0000011366 00000 n 
+0000011502 00000 n 
+0000011630 00000 n 
+0000011757 00000 n 
+0000011886 00000 n 
+0000012019 00000 n 
+0000012121 00000 n 
+0000012469 00000 n 
+0000012555 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <05458DF04FA1679CDD58DE1557592F2E> <05458DF04FA1679CDD58DE1557592F2E> ]
+>>
+startxref
+12659
+%%EOF

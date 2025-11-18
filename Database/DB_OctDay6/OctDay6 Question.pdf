@@ -1,0 +1,673 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4561
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are analyzing sales data for a large e-commerce company. You need to find the) Tj
+T* (average order value for each product category, but only for categories with more than) Tj
+T* (100 orders. Which SQL query would accomplish this task?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 609.4490551181102092 Td
+(A. SELECT category, AVG\(order_value\) FROM sales GROUP BY category WHERE) Tj
+T* (COUNT\(*\) > 100;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 575.4333070866141497 Td
+(B. SELECT category, AVG\(order_value\) FROM sales GROUP BY category HAVING) Tj
+T* (COUNT\(*\) > 100;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 541.4175590551180903 Td
+(C. SELECT category, AVG\(order_value\) FROM sales WHERE COUNT\(*\) > 100) Tj
+T* (GROUP BY category;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 507.4018110236219741 Td
+(D. SELECT category, AVG\(order_value\) FROM sales HAVING COUNT\(*\) > 100) Tj
+T* (GROUP BY category;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 459.2128346456692611 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 459.2128346456692611 Td
+(You need to calculate the total sales for each region, but you want to exclude any) Tj
+T* (NULL values in the sales column. Which GROUP function should you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 425.1970866141731449 Td
+(A. SUM\(sales\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 405.3545669291337958 Td
+(B. TOTAL\(sales\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 385.5120472440944468 Td
+(C. SUM\(NVL\(sales, 0\)\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 365.6695275590550409 Td
+(D. AGGREGATE\(sales\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(3.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 331.6537795275589815 Td
+(In a customer database, you need to find out how many customers are in each age) Tj
+T* (group, where age groups are defined as 0-18, 19-30, 31-50, and 51+. Which SQL) Tj
+T* (feature would be most appropriate for this task?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 283.4648031496062686 Td
+(A. CASE statement in SELECT clause) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 263.6222834645668627 Td
+(B. WHERE clause with multiple conditions) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 243.7797637795274568 Td
+(C. HAVING clause with COUNT function) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 223.9372440944881646 Td
+(D. PARTITION BY clause in window function) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 189.9214960629919915 Td
+(4.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 189.9214960629919915 Td
+(You're analyzing website traffic data and need to find the median session duration for) Tj
+T* (each day of the week. Which function would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 155.9057480314959321 Td
+(A. AVG\(session_duration\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 136.0632283464566399 Td
+(B. MEDIAN\(session_duration\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 116.220708661417234 Td
+(C. MIDDLE\(session_duration\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 96.3781889763778281 Td
+(D. PERCENTILE_CONT\(0.5\) WITHIN GROUP \(ORDER BY session_duration\)) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4311
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You're working on a project management database and need to find the number of projects each) Tj
+T* (employee is currently managing, but only for employees managing more than 5 projects. Which SQL) Tj
+T* (query would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 737.0081102362204319 Td
+(A. SELECT employee_id, COUNT\(project_id\) AS project_count FROM projects WHERE status =) Tj
+T* ('active' GROUP BY employee_id HAVING COUNT\(project_id\) > 5;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 702.9923622047243725 Td
+(B. SELECT employee_id, COUNT\(project_id\) AS project_count FROM projects WHERE status =) Tj
+T* ('active' AND COUNT\(project_id\) > 5 GROUP BY employee_id;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 668.9766141732283131 Td
+(C. SELECT employee_id, COUNT\(project_id\) AS project_count FROM projects GROUP BY) Tj
+T* (employee_id HAVING COUNT\(project_id\) > 5 AND status = 'active';) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 634.9608661417322537 Td
+(D. SELECT employee_id, COUNT\(project_id\) AS project_count FROM projects WHERE status =) Tj
+T* ('active' GROUP BY employee_id HAVING project_count > 5;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 586.7718897637794271 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 586.7718897637794271 Td
+(You're analyzing customer feedback data and want to find the average rating for each product, but only) Tj
+T* (for products with at least 10 reviews. Additionally, you want to round the average rating to two decimal) Tj
+T* (places. Which SQL query would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 538.5829133858267141 Td
+(A. SELECT product_id, ROUND\(AVG\(rating\), 2\) AS avg_rating FROM reviews GROUP BY product_id) Tj
+T* (HAVING COUNT\(*\) >= 10;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 504.5671653543306547 Td
+(B. SELECT product_id, AVG\(ROUND\(rating, 2\)\) AS avg_rating FROM reviews GROUP BY product_id) Tj
+T* (HAVING COUNT\(*\) >= 10;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 470.5514173228345953 Td
+(C. SELECT product_id, ROUND\(AVG\(rating\), 2\) AS avg_rating FROM reviews WHERE COUNT\(*\) >=) Tj
+T* (10 GROUP BY product_id;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 436.5356692913385359 Td
+(D. SELECT product_id, ROUND\(AVG\(rating\), 2\) AS avg_rating FROM reviews GROUP BY product_id) Tj
+T* (WHERE COUNT\(*\) >= 10;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 388.3466929133857661 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 388.3466929133857661 Td
+(You need to find the top 3 departments with the highest total salaries. Which SQL feature would you use) Tj
+T* (in combination with GROUP BY to achieve this?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 354.3309448818897067 Td
+(A. LIMIT 3) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 334.4884251968503008 Td
+(B. TOP 3) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 314.6459055118109518 Td
+(C. FETCH FIRST 3 ROWS ONLY) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 294.8033858267715459 Td
+(D. WHERE ROWNUM <= 3) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 260.7876377952754865 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 260.7876377952754865 Td
+(You're analyzing sales data and need to calculate the running total of sales for each product within its) Tj
+T* (category, ordered by date. Which SQL feature would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 226.7718897637794271 Td
+(A. GROUP BY with SUM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 206.9293700787401349 Td
+(B. PARTITION BY with SUM) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 187.086850393700729 Td
+(C. SUM with OVER clause) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 167.2443307086613231 Td
+(D. ROLLUP with SUM) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20250930081444+06'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000009265 00000 n 
+0000011090 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004765 00000 n 
+0000004902 00000 n 
+0000009328 00000 n 
+0000009453 00000 n 
+0000009583 00000 n 
+0000009716 00000 n 
+0000009854 00000 n 
+0000009978 00000 n 
+0000010107 00000 n 
+0000010239 00000 n 
+0000010375 00000 n 
+0000010503 00000 n 
+0000010630 00000 n 
+0000010759 00000 n 
+0000010892 00000 n 
+0000010994 00000 n 
+0000011340 00000 n 
+0000011426 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <8C7781119CAD816F4B999301A5C3A7F0> <8C7781119CAD816F4B999301A5C3A7F0> ]
+>>
+startxref
+11530
+%%EOF
