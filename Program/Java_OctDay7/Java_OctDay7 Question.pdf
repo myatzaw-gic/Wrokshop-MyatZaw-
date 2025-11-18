@@ -1,0 +1,806 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 3137
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are developing a method to calculate the total cost of items in a shopping cart.) Tj
+T* (The method takes two parameters: an array of item prices \(doubles\) and an array of) Tj
+T* (quantities \(integers\). Which of the following code snippets correctly calculates the) Tj
+T* (total cost?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 595.2758267716535556 Td
+(A. double total = 0;) Tj
+T* (for \(int i = 0; i < prices.length; i++\) {) Tj
+T* (    total += prices[i] * quantities[i];) Tj
+T* (}) Tj
+T* (return total;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 518.7403937007873083 Td
+(B. int total = 0;) Tj
+T* (for \(int i = 0; i < prices.length; i++\) {) Tj
+T* (    total += prices[i] * quantities[i];) Tj
+T* (}) Tj
+T* (return total;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 442.2049606299212314 Td
+(C. double total = 0;) Tj
+T* (for \(double price : prices\) {) Tj
+T* (    total += price;) Tj
+T* (}) Tj
+T* (return total;) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 365.6695275590550409 Td
+(D. double total = 0;) Tj
+T* (for \(int i = 0; i < prices.length; i++\) {) Tj
+T* (    total += prices[i] + quantities[i];) Tj
+T* (}) Tj
+T* (return total;) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 274.9608661417322537 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 274.9608661417322537 Td
+(Which of the following logical expressions correctly checks if a given integer 'num' is) Tj
+T* (divisible by both 2 and 3, but not by 5?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 240.9451181102361943 Td
+(A. \(num % 2 == 0\) && \(num % 3 == 0\) && !\(num % 5 == 0\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 221.1025984251967884 Td
+(B. \(num % 2 == 0\) || \(num % 3 == 0\) && \(num % 5 != 0\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 201.2600787401573825 Td
+(C. \(num % 2 == 0\) && \(num % 3 == 0\) || \(num % 5 != 0\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 181.4175590551179766 Td
+(D. !\(num % 2 != 0\) && !\(num % 3 != 0\) && \(num % 5 != 0\)) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3955
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(3.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You're implementing a method to find the maximum value in an array of integers. Which of the following) Tj
+T* (implementations is correct and most efficient?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 751.1813385826771992 Td
+(A. int max = Integer.MIN_VALUE;) Tj
+T* (for \(int num : arr\) {) Tj
+T* (    if \(num > max\) max = num;) Tj
+T* (}) Tj
+T* (return max;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 674.6459055118109518 Td
+(B. int max = arr[0];) Tj
+T* (for \(int i = 1; i < arr.length; i++\) {) Tj
+T* (    if \(arr[i] > max\) max = arr[i];) Tj
+T* (}) Tj
+T* (return max;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 598.1104724409448181 Td
+(C. Arrays.sort\(arr\);) Tj
+T* (return arr[arr.length - 1];) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 564.0947244094487587 Td
+(D. int max = 0;) Tj
+T* (for \(int num : arr\) {) Tj
+T* (    max = Math.max\(max, num\);) Tj
+T* (}) Tj
+T* (return max;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 473.3860629921259147 Td
+(4.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 473.3860629921259147 Td
+(In a method that checks if a string is a palindrome, which of the following conditions correctly compares) Tj
+T* (characters at opposite ends of the string?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 439.3703149606298552 Td
+(A. s.charAt\(i\) == s.charAt\(s.length\(\) - i\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 419.5277952755905062 Td
+(B. s.charAt\(i\) == s.charAt\(s.length\(\) - i - 1\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 399.6852755905511003 Td
+(C. s.charAt\(i\) == s.charAt\(s.length\(\) - \(i + 1\)\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 379.8427559055117513 Td
+(D. s.charAt\(i + 1\) == s.charAt\(s.length\(\) - i\)) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 345.8270078740156919 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 345.8270078740156919 Td
+(You're implementing a binary search algorithm. Which of the following correctly calculates the middle) Tj
+T* (index of the search range?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 311.8112598425195756 Td
+(A. int mid = \(low + high\) / 2;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 291.9687401574802834 Td
+(B. int mid = low + \(high - low\) / 2;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 272.1262204724408775 Td
+(C. int mid = \(low + high + 1\) / 2;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 252.2837007874014716 Td
+(D. int mid = \(low + high\) >>> 1;) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 218.2679527559054122 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 218.2679527559054122 Td
+(You're developing a method to check if a year is a leap year. Which of the following logical expressions) Tj
+T* (correctly implements the leap year rule \(divisible by 4, but not by 100 unless also divisible by 400\)?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 184.2522047244093528 Td
+(A. \(year % 4 == 0\) && \(year % 100 != 0\) || \(year % 400 == 0\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 164.4096850393699469 Td
+(B. \(year % 4 == 0\) && \(\(year % 100 != 0\) || \(year % 400 == 0\)\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 144.5671653543306547 Td
+(C. \(year % 4 == 0\) || \(year % 100 == 0\) && \(year % 400 == 0\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 124.7246456692912489 Td
+(D. \(year % 4 == 0\) && \(year % 100 == 0\) && \(year % 400 == 0\)) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2195
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You're implementing a method to find the longest common prefix among an array of strings. Which of) Tj
+T* (the following approaches is correct and efficient?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 751.1813385826771992 Td
+(A. String prefix = strs[0];) Tj
+T* (for \(int i = 1; i < strs.length; i++\) {) Tj
+T* (    while \(strs[i].indexOf\(prefix\) != 0\) {) Tj
+T* (        prefix = prefix.substring\(0, prefix.length\(\) - 1\);) Tj
+T* (        if \(prefix.isEmpty\(\)\) return "";) Tj
+T* (    }) Tj
+T* (}) Tj
+T* (return prefix;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 632.1262204724408775 Td
+(B. Arrays.sort\(strs\);) Tj
+T* (String first = strs[0];) Tj
+T* (String last = strs[strs.length - 1];) Tj
+T* (int c = 0;) Tj
+T* (while \(c < first.length\(\) && first.charAt\(c\) == last.charAt\(c\)\) c++;) Tj
+T* (return first.substring\(0, c\);) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 541.4175590551180903 Td
+(C. StringBuilder result = new StringBuilder\(\);) Tj
+T* (for \(int i = 0; i < strs[0].length\(\); i++\) {) Tj
+T* (    char c = strs[0].charAt\(i\);) Tj
+T* (    for \(int j = 1; j < strs.length; j++\) {) Tj
+T* (        if \(i >= strs[j].length\(\) || strs[j].charAt\(i\) != c\) {) Tj
+T* (            return result.toString\(\);) Tj
+T* (        }) Tj
+T* (    }) Tj
+T* (    result.append\(c\);) Tj
+T* (}) Tj
+T* (return result.toString\(\);) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 379.8427559055117513 Td
+(D. return strs[0].substring\(0, IntStream.range\(0, strs[0].length\(\)\)) Tj
+T* (    .filter\(i -> Arrays.stream\(strs\).allMatch\(s -> s.length\(\) > i && s.charAt\(i\) == strs[0].charAt\(i\)\)\)) Tj
+T* (    .min\(\)) Tj
+T* (    .orElse\(0\)\);) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 3) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1855
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You're implementing a method to find the maximum subarray sum in an array of integers. Which of the) Tj
+T* (following implementations correctly solves this problem using Kadane's algorithm?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 751.1813385826771992 Td
+(A. int maxSum = arr[0], currentSum = arr[0];) Tj
+T* (for \(int i = 1; i < arr.length; i++\) {) Tj
+T* (    currentSum = Math.max\(arr[i], currentSum + arr[i]\);) Tj
+T* (    maxSum = Math.max\(maxSum, currentSum\);) Tj
+T* (}) Tj
+T* (return maxSum;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 660.4726771653542983 Td
+(B. int maxSum = Integer.MIN_VALUE, currentSum = 0;) Tj
+T* (for \(int num : arr\) {) Tj
+T* (    currentSum = Math.max\(num, currentSum + num\);) Tj
+T* (    maxSum = Math.max\(maxSum, currentSum\);) Tj
+T* (}) Tj
+T* (return maxSum;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 569.7640157480313974 Td
+(C. int maxSum = arr[0];) Tj
+T* (for \(int i = 1; i < arr.length; i++\) {) Tj
+T* (    if \(arr[i] > arr[i] + arr[i-1]\) {) Tj
+T* (        arr[i] = arr[i];) Tj
+T* (    } else {) Tj
+T* (        arr[i] += arr[i-1];) Tj
+T* (    }) Tj
+T* (    maxSum = Math.max\(maxSum, arr[i]\);) Tj
+T* (}) Tj
+T* (return maxSum;) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 422.3624409448818255 Td
+(D. return Arrays.stream\(arr\).reduce\(0, \(a, b\) -> Math.max\(a + b, b\)\);) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 4) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20250930105247+06'30')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000011915 00000 n 
+0000013755 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003341 00000 n 
+0000003478 00000 n 
+0000007485 00000 n 
+0000007622 00000 n 
+0000009869 00000 n 
+0000010007 00000 n 
+0000011990 00000 n 
+0000012116 00000 n 
+0000012247 00000 n 
+0000012381 00000 n 
+0000012519 00000 n 
+0000012643 00000 n 
+0000012772 00000 n 
+0000012904 00000 n 
+0000013040 00000 n 
+0000013168 00000 n 
+0000013295 00000 n 
+0000013424 00000 n 
+0000013557 00000 n 
+0000013659 00000 n 
+0000014008 00000 n 
+0000014094 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <51461978100E4FC4B1F9FC32CF4AAC05> <51461978100E4FC4B1F9FC32CF4AAC05> ]
+>>
+startxref
+14198
+%%EOF

@@ -1,0 +1,662 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4738
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+187.3899999999999295 756.8506299212598378 Td
+(IT Skill Test GIC Myanmar) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 728.5041732283464171 Td
+(Duration: 30 Minutes) Tj
+ET
+BT
+/F3 12 Tf
+13.7999999999999989 TL
+0 g
+439.3700787401575099 728.5041732283464171 Td
+(Total Questions: 8) Tj
+ET
+0. G
+56.6929133858267775 685.9844881889763428 m
+538.5870866141731312 685.9844881889763428 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(1.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 657.6380314960629221 Td
+(You are developing a program to process a large dataset of customer orders. Each) Tj
+T* (order contains multiple items, and you need to calculate the total price for each order.) Tj
+T* (Which looping construct would be most appropriate for this scenario?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 609.4490551181102092 Td
+(A. for \(int i = 0; i < orders.size\(\); i++\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 589.6065354330708033 Td
+(B. while \(orders.hasNext\(\)\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 569.7640157480313974 Td
+(C. do { ... } while \(orders.hasNext\(\)\);) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 549.9214960629921052 Td
+(D. orders.forEach\(order -> { ... }\);) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 515.9057480314959321 Td
+(2.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 515.9057480314959321 Td
+(You are developing a text processing application that needs to remove all whitespace) Tj
+T* (characters from the beginning and end of each line in a multi-line string. The) Tj
+T* (processing should stop when an empty line is encountered. Which looping construct) Tj
+T* (would be most efficient for this task?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 453.5435433070865656 Td
+(A. for \(String line : lines\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 433.7010236220471597 Td
+(B. while \(!line.isEmpty\(\)\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 413.8585039370078107 Td
+(C. do { ... } while \(!line.trim\(\).isEmpty\(\)\);) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 394.0159842519684616 Td
+(D. for \(int i = 0; i < lines.length; i++\) { ... }) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 360.0002362204724022 Td
+(3.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 360.0002362204724022 Td
+(You're implementing a retry mechanism for an API call that might fail due to network) Tj
+T* (issues. The call should be retried up to 5 times with increasing delays between) Tj
+T* (attempts. Which looping construct is most suitable?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 311.8112598425195756 Td
+(A. for \(int i = 0; i < 5; i++\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 291.9687401574802834 Td
+(B. while \(retryCount < 5\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 272.1262204724408775 Td
+(C. do { ... } while \(retryCount < 5\);) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 252.2837007874014716 Td
+(D. IntStream.range\(0, 5\).forEach\(i -> { ... }\);) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 218.2679527559054122 Td
+(4.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+84.9259842519685151 218.2679527559054122 Td
+(You're developing a game where a character moves through a 2D grid. The character) Tj
+T* (should continue moving until it reaches the edge of the grid or encounters an) Tj
+T* (obstacle. Which looping construct would you use?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 170.0789763779526993 Td
+(A. for \(int steps = 0; steps < maxSteps; steps++\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 150.2364566929132934 Td
+(B. while \(!reachedEdge && !hitObstacle\) { ... }) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 130.3939370078738875 Td
+(C. do { ... } while \(canMove\);) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0 g
+85.0393700787401627 110.5514173228345953 Td
+(D. grid.stream\(\).forEach\(cell -> { ... }\);) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3500
+>>
+stream
+0.5670000000000001 w
+0. G
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(5.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 785.1970866141732586 Td
+(You're implementing a binary search algorithm on a sorted array. Which looping construct would be most) Tj
+T* (appropriate?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 751.1813385826771992 Td
+(A. for \(int i = 0; i < array.length; i++\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 731.3388188976377933 Td
+(B. while \(low <= high\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 711.4962992125983874 Td
+(C. do { ... } while \(low < high\);) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 691.6537795275589815 Td
+(D. Arrays.stream\(array\).forEach\(element -> { ... }\);) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 657.6380314960629221 Td
+(6.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 657.6380314960629221 Td
+(You're writing a method to validate user input. The user should be prompted to enter a value until a valid) Tj
+T* (input is provided. Which looping construct is most suitable?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 623.6222834645668627 Td
+(A. for \(;;\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 603.7797637795274568 Td
+(B. while \(!isValidInput\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 583.9372440944881646 Td
+(C. do { ... } while \(!isValidInput\);) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 564.0947244094487587 Td
+(D. Stream.generate\(\(\) -> getUserInput\(\)\).forEach\(input -> { ... }\);) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 530.0789763779526993 Td
+(7.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 530.0789763779526993 Td
+(You're implementing a method to process a linked list of tasks. Each task might generate new tasks that) Tj
+T* (should be added to the end of the list. Which looping construct would you use?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 496.0632283464566399 Td
+(A. for \(Task task : tasks\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 476.2207086614172908 Td
+(B. while \(!tasks.isEmpty\(\)\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 456.378188976377885 Td
+(C. do { ... } while \(!tasks.isEmpty\(\)\);) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 436.5356692913385359 Td
+(D. tasks.forEach\(task -> { ... }\);) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 402.5199212598424765 Td
+(8.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+80.2204724409448886 402.5199212598424765 Td
+(You're developing a method to calculate the factorial of a number. Which looping construct would be) Tj
+T* (most efficient and readable?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 368.5041732283464171 Td
+(A. for \(int i = 1; i <= n; i++\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 348.6616535433070112 Td
+(B. while \(n > 1\) { ... }) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 328.8191338582676053 Td
+(C. do { ... } while \(n > 1\);) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+85.0393700787401627 308.9766141732283131 Td
+(D. IntStream.rangeClosed\(1, n\).reduce\(1, \(a, b\) -> a * b\);) Tj
+ET
+0. G
+56.6929133858267775 70.8661417322834666 m
+538.5870866141731312 70.8661417322834666 l
+S
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+164.6899999999999125 56.6929133858268415 Td
+(© 2025 Global Innovation Consulting.Inc, All rights reserved.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+281.9399999999999977 28.3464566929134207 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.2)
+/CreationDate (D:20251001125446+06'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000008631 00000 n 
+0000010456 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004942 00000 n 
+0000005079 00000 n 
+0000008694 00000 n 
+0000008819 00000 n 
+0000008949 00000 n 
+0000009082 00000 n 
+0000009220 00000 n 
+0000009344 00000 n 
+0000009473 00000 n 
+0000009605 00000 n 
+0000009741 00000 n 
+0000009869 00000 n 
+0000009996 00000 n 
+0000010125 00000 n 
+0000010258 00000 n 
+0000010360 00000 n 
+0000010706 00000 n 
+0000010792 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <F6F30F94125CE6DE190987A417FB69E0> <F6F30F94125CE6DE190987A417FB69E0> ]
+>>
+startxref
+10896
+%%EOF
